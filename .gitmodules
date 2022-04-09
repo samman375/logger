@@ -1,3 +1,6 @@
 [submodule "keylogger"]
 	path = keylogger
 	url = https://github.com/samman375/keylogger.git
+[submodule "macos-installer-builder"]
+	path = macos-installer-builder
+	url = https://github.com/samman375/macos-installer-builder.git
