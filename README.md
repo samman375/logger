@@ -1,6 +1,6 @@
 # logger
 
-This was created for the 'Something Awesome' project in COMP6841: Security Engineering in T122.
+This was created for the 'Something Awesome' project in COMP6841: Security Engineering in T122. It was awarded a mark of 100%.
 
 A keylogger for MacOS. Records a log of every key typed by a user in a file. I wanted this to be undetectable by the user, otherwise what was the point of having malware installed. This project consists of 2 main parts: the python logger and the deployment software. The installation file pretends to be a 'RAM Booster' that will significantly increase the user's RAM.
 
